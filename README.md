@@ -2,7 +2,7 @@
 
 Patika Frontend eğitimi kapsamında yapılan HTML ödevidir.
 
-🔗 **Canlı Demo:** https://abdullahkorkmazzz.github.io/html-odev-3/
+🔗 **Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-3/)
 
 ## Kullanılan Teknolojiler
 - HTML5
