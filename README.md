@@ -1,4 +1,4 @@
-# HTML Ödev 3 - Çikolatalı Kek Tarifi
+# HTML Ödev 3
 
 Patika Frontend eğitimi kapsamında yapılan HTML ödevidir.
 
